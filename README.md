@@ -1,1 +1,3 @@
-# sites-de-cours
+# sites-de-cours 
+
+Le démarrage avec git
